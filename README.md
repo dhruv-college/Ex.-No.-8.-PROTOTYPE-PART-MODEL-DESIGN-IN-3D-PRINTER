@@ -46,9 +46,6 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
-![cura screenshot](https://github.com/user-attachments/assets/7cd5b5aa-63d6-43f1-bbf9-5ad7368c4e27)
-
 ### Name:Dhruv.D
 ### Register Number:24900416
 
