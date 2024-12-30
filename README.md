@@ -46,6 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+
+![clock](https://github.com/user-attachments/assets/a3be2114-3952-43bb-8ca0-2f0e7adadb0f)
+
 ### Name:Dhruv.D
 ### Register Number:24900416
 
